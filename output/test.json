@@ -1,0 +1,20 @@
+{
+  "title": "Test Document Title",
+  "outline": [
+    {
+      "text": "1. Introduction",
+      "level": "H1",
+      "page": 1
+    },
+    {
+      "text": "1.1 Background",
+      "level": "H2",
+      "page": 1
+    },
+    {
+      "text": "1.1.1 Detailed Section",
+      "level": "H3",
+      "page": 1
+    }
+  ]
+}
